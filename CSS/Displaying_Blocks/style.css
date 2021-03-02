@@ -1,0 +1,46 @@
+/*CSS reset settings here*/
+*{ 
+  margin: 0px;
+  padding: 10px;
+ }
+ #wrapper{
+  width: 970px;
+  background-color: tan;
+  padding: 20px;
+ }
+ #header{
+  text-align: center;
+  align-content: center;
+  min-height: 50px;
+ }
+
+ .file{
+  display: inline-block;
+  vertical-align: text-bottom;
+ }
+
+ .blue{
+  display: inline-block;
+  height:135px;
+  width: 135px;
+  border: 10px solid lightblue;
+  box-shadow: 0 0 0 3px black;
+  background-color: white;
+  margin: 5px;
+ }
+
+ .red{
+  display: inline-block;
+  height:135px;
+  width: 135px;
+  border: 10px solid red;
+  box-shadow: 0 0 0 3px black;
+  background-color: red;
+  margin: 5px;
+ }
+
+ #main_content{
+  min-height: 350px;
+  width: 942px;
+  align-content: center;
+ }
